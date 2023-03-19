@@ -1,0 +1,267 @@
+{
+  "articles": [
+    {
+      "name": "Sudadera beisbolera con motivo estampado para chico",
+      "price": 39.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Marino", "Liana"],
+      "src": "/images/sudadera-beisbolera.webp"
+    },
+    {
+      "name": "Chaqueta americana de algodón para chico",
+      "price": 54.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Marino", "Manglar"],
+      "src": "/images/chaqueta-americana-algodon.webp"
+    },
+    {
+      "name": "Cazadora sarga vestir chico",
+      "price": 54.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Marino"],
+      "src": "/images/cazadora-sarga.webp"
+    },
+    {
+      "name": "Chaqueta americana estructura chico",
+      "price": 69.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Marino"],
+      "src": "/images/chaqueta-americana-estructura.webp"
+    },
+    {
+      "name": "Bermuda chino básico chico",
+      "price": 23.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Marino", "Lino", "Roca", "Crudo", "Canela"],
+      "src": "/images/bermuda-chino.webp"
+    },
+    {
+      "name": "Pantalón chino slim de algodón sostenible para chico",
+      "price": 25.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Marino", "Canela", "Crudo", "Roca", "Manglar"],
+      "src": "/images/pantalon-chino-slim-marino.webp"
+    },
+    {
+      "name": "Camiseta con motivo estampado de algodón sostenible para chico",
+      "price": 11.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": [
+        "Rojo",
+        "Hoja",
+        "Mango",
+        "Banana",
+        "Negro",
+        "Blanco",
+        "Marino"
+      ],
+      "src": "/images/camiseta-con-motivo-rojo.webp"
+    },
+    {
+      "name": "Bermuda básica chico",
+      "price": 23.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Manglar", "Blanco", "Cámel", "Marino"],
+      "src": "/images/bermuda-basica-chico.webp"
+    },
+    {
+      "name": "Pantalón slim fit de algodón sostenible para chico",
+      "price": 25.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Manglar", "Arroz", "Marino"],
+      "src": "/images/pantalon-slim-algodon-sostenible.webp"
+    },
+    {
+      "name": "Bolso de crochet para chica",
+      "price": 28.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Buganvilla", "Garbanzo"],
+      "src": "/images/bolso-de-crochet.webp"
+    },
+    {
+      "name": "Bermuda estructura chico",
+      "price": 29.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Marino"],
+      "src": "/images/bermuda-estructura-chico.webp"
+    },
+    {
+      "name": "Chaquetón acolchado con multibolsillos para chico",
+      "price": 34.99,
+      "oldPrice": 69.99,
+      "discount": 50,
+      "colours": ["Dark Navy", "Carbono", "Maiz"],
+      "src": "/images/chaqueton-acolchado.webp"
+    },
+    {
+      "name": "Chaquetón acolchado ligero para chico",
+      "price": 26.49,
+      "oldPrice": 52.99,
+      "discount": 50,
+      "colours": ["Expresso", "Goji", "Dark Navy", "Negro"],
+      "src": "/images/chaqueton-acolchado-ligero-expresso.webp"
+    },
+    {
+      "name": "Chaquetón acolchado ligero para chico",
+      "price": 26.49,
+      "oldPrice": 52.99,
+      "discount": 50,
+      "colours": ["Negro", "Goji", "Expresso", "Dark Navy"],
+      "src": "/images/chaqueton-acolchado-ligero-negro.webp"
+    },
+    {
+      "name": "Chaquetón acolchado con cintas para chico",
+      "price": 34.99,
+      "oldPrice": 69.99,
+      "discount": 50,
+      "colours": ["Dark Navy", "Matcha", "Steel Blue", "Goji"],
+      "src": "/images/chaqueton-acolchado-cintas.webp"
+    },
+    {
+      "name": "Camiseta manga corta de algodón sostenible para chica",
+      "price": 15.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Negro", "Blanco"],
+      "src": "/images/camiseta-manga-corta-chica.webp"
+    },
+    {
+      "name": "Rebeca de tricot con manga abullonada para chica",
+      "price": 28.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": [
+        "Crudo",
+        "Raiz",
+        "Esmeralda",
+        "Mimosa",
+        "Colorete",
+        "Blanco",
+        "Carmin",
+        "Negro"
+      ],
+      "src": "/images/rebeca-de-tricot.webp"
+    },
+    {
+      "name": "Camiseta manga corta con motivo estampado para chica",
+      "price": 19.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": [
+        "Mimosa",
+        "Colorete",
+        "Blanco",
+        "Blanco-Esmeralda",
+        "Blanco-Carmín"
+      ],
+      "src": "/images/camiseta-manga-corta-con-motivo-chica.webp"
+    },
+    {
+      "name": "Jegging vaquero super skinny para chica",
+      "price": 25.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Negro", "Tejano", "Tejano Claro"],
+      "src": "/images/jegging-vaquero-super-skinny.webp"
+    },
+    {
+      "name": "Chándal de chica",
+      "price": 22.49,
+      "oldPrice": 44.99,
+      "discount": 50,
+      "colours": ["Masala", "Antracita"],
+      "src": "/images/chandal-de-chica.webp"
+    },
+    {
+      "name": "Vestido de felpa estampado para chica",
+      "price": 18.99,
+      "oldPrice": 37.99,
+      "discount": 50,
+      "colours": ["Masala", "Garbanzo"],
+      "src": "/images/vestido-de-felpa-estampado.webp"
+    },
+    {
+      "name": "Vestido combinado con tul para chica",
+      "price": 19.99,
+      "oldPrice": 39.99,
+      "discount": 50,
+      "colours": ["Negro", "Garbanzo"],
+      "src": "/images/vestido-combinado.webp"
+    },
+    {
+      "name": "Sudadera con corazones para chica",
+      "price": 13.99,
+      "oldPrice": 27.99,
+      "discount": 50,
+      "colours": ["Marino", "Acero vigoré"],
+      "src": "/images/sudadera-con-corazones.webp"
+    },
+    {
+      "name": "Polo granito bordado chico",
+      "price": 24.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Blanco"],
+      "src": "/images/polo-granito-bordado.webp"
+    },
+    {
+      "name": "Sandalia cangrejera con puntera reforzada para chico",
+      "price": 47.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Marino", "Cámel"],
+      "src": "/images/sandalia-cangrejera.webp"
+    },
+    {
+      "name": "Bañador con estampado de poliéster reciclado para chico",
+      "price": 22.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Azufre", "Mango"],
+      "src": "/images/banador-con-estampado.webp"
+    },
+    {
+      "name": "Náutico con cierre de velcro para chico",
+      "price": 47.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Negro", "Jeans", "Marino"],
+      "src": "/images/nautico-con-cierre.webp"
+    },
+    {
+      "name": "Bailarina destalonada con cierre de velcro para chica",
+      "price": 43.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Blanco", "Chicle"],
+      "src": "/images/bailarina-destalonada.webp"
+    },
+    {
+      "name": "Bailarina de charol para chica",
+      "price": 43.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Rojo", "Blanco"],
+      "src": "/images/bailarina-charol.webp"
+    },
+    {
+      "name": "Sandalia de colores",
+      "price": 24.99,
+      "oldPrice": "",
+      "discount": "",
+      "colours": ["Coral", "Multicolor"],
+      "src": "/images/sandalia-de-colores.webp"
+    }
+  ]
+}
